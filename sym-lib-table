@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name SMA_Edge)(type Legacy)(uri /home/walzert/Development/Hamradio/PCB/SI5351_Breakout/CON-SMA-EDGE-S/CON-SMA-EDGE-S.lib)(options "")(descr ""))
+  (lib (name HamRadio)(type Legacy)(uri ${KIPRJMOD}/HamRadio.lib)(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name SMA_Edge)(type KiCad)(uri /home/walzert/Development/Hamradio/PCB/SI5351_Breakout/CON-SMA-EDGE-S)(options "")(descr ""))
+  (lib (name HamRadio)(type KiCad)(uri ${KIPRJMOD}/HamRadio.pretty)(options "")(descr ""))
+  (lib (name TPF)(type KiCad)(uri /home/walzert/Nextcloud/OV-P29/PCBs/TPF_set/TPF_set.pretty)(options "")(descr ""))
+)
